@@ -1,0 +1,10 @@
+D:\NDICHU\Technobrain\Question 1\Exercise02\bin\Debug\Exercise02.exe.config
+D:\NDICHU\Technobrain\Question 1\Exercise02\bin\Debug\Exercise02.exe
+D:\NDICHU\Technobrain\Question 1\Exercise02\bin\Debug\Exercise02.pdb
+D:\NDICHU\Technobrain\Question 1\Exercise02\obj\Debug\Exercise02.csproj.CoreCompileInputs.cache
+D:\NDICHU\Technobrain\Question 1\Exercise02\obj\Debug\Exercise02.exe
+D:\NDICHU\Technobrain\Question 1\Exercise02\obj\Debug\Exercise02.pdb
+D:\NDICHU\Technobrain\Question 1\Exercise02\bin\Debug\Exercise01.dll
+D:\NDICHU\Technobrain\Question 1\Exercise02\bin\Debug\Exercise01.pdb
+D:\NDICHU\Technobrain\Question 1\Exercise02\obj\Debug\Exercise02.csproj.AssemblyReference.cache
+D:\NDICHU\Technobrain\Question 1\Exercise02\obj\Debug\Exercise02.csproj.CopyComplete
